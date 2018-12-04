@@ -5,7 +5,13 @@
 }
 =======
   "main.css.map": "static/css/main.aa0e0c5c.css.map",
+<<<<<<< HEAD
   "main.js": "static/js/main.8f219727.js",
   "main.js.map": "static/js/main.8f219727.js.map"
 }
 >>>>>>> 04ac8aa13ad1185a85b93742f3387782fa8654a7
+=======
+  "main.js": "static/js/main.923c0871.js",
+  "main.js.map": "static/js/main.923c0871.js.map"
+}
+>>>>>>> f26bf31c79a0116834603235454c76984e525635
